@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "682836469520",
+    "firebase_url": "https://neew-d0bdd.firebaseio.com",
+    "project_id": "neew-d0bdd",
+    "storage_bucket": "neew-d0bdd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682836469520:android:a8d28c80554a785d736795",
+        "android_client_info": {
+          "package_name": "com.example.note_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "682836469520-ngpgq3jtvmg6s681kkb71a7nuiu98s24.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.note_app",
+            "certificate_hash": "4e6c2532e164fce1f302dbceecf53126ebe4ad79"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc7j67M9dTjK7wFTlVNSIdeTmAib_Mjj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "682836469520-v46vo3eejbk8ql79votjmraf0gfs4joq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.noteApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

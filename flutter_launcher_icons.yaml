@@ -1,0 +1,11 @@
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icons/note1.png"
+
+  adaptive_icon_background: "#000000" # اللون الأسود
+  adaptive_icon_foreground: "assets/icons/note1.png"
+
+  # لتحديد خلفية سوداء لنظام iOS في حال وجود أجزاء شفافة
+  remove_alpha_ios: true
+  background_color_ios: "#000000"
