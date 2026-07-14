@@ -46,33 +46,3 @@ class DefaultFirebaseOptions {
     }
   }
 
-  static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCDFW5PQmPj6F5jlGAz7-EwWoJHcbIRM38',
-    appId: '1:682836469520:web:1c7a5d931c1612da736795',
-    messagingSenderId: '682836469520',
-    projectId: 'neew-d0bdd',
-    authDomain: 'neew-d0bdd.firebaseapp.com',
-    databaseURL: 'https://neew-d0bdd.firebaseio.com',
-    storageBucket: 'neew-d0bdd.firebasestorage.app',
-    measurementId: 'G-8ND6TNE895',
-  );
-
-  static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDc7j67M9dTjK7wFTlVNSIdeTmAib_Mjj4',
-    appId: '1:682836469520:android:a8d28c80554a785d736795',
-    messagingSenderId: '682836469520',
-    projectId: 'neew-d0bdd',
-    databaseURL: 'https://neew-d0bdd.firebaseio.com',
-    storageBucket: 'neew-d0bdd.firebasestorage.app',
-  );
-
-  static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBljn87MV6Ebc0_zQv1YSzjl6ByhnkPCL0',
-    appId: '1:682836469520:ios:11f33e09ec0e555a736795',
-    messagingSenderId: '682836469520',
-    projectId: 'neew-d0bdd',
-    databaseURL: 'https://neew-d0bdd.firebaseio.com',
-    storageBucket: 'neew-d0bdd.firebasestorage.app',
-    iosBundleId: 'com.example.noteApp',
-  );
-}
