@@ -1,5 +1,6 @@
 # 📝 Sync Notes
-> An offline-first note-taking application with real-time cloud synchronization, built with Flutter and powered by Hive + Firebase.
+> An offline-first note-taking application with real-time cloud synchronization, built with Flutter and powered by Sqflite + Firebase.
+> 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
